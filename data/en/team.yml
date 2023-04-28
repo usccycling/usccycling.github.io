@@ -74,4 +74,11 @@ team:
       image_webp : images/team/liana.webp
       image : images/team/liana.jpg
       designation : Alumni Relations
+      
+    # team member loop
+    - name : Kenneth Tiet
+      image_webp : images/team/usc-biker.webp
+      image : images/team/usc-biker.jpg
+      designation : Social Media
+      
         
