@@ -1,0 +1,12 @@
+############################### Banner ################################
+banner:
+  enable : true
+  bg_image_webp : "images/backgrounds/race-day-group.webp"
+  bg_image : "images/backgrounds/race-day-group.jpg"
+  icon : "" # themify icon pack : https://themify.me/themify-icons
+  title : "USC Cycling"
+  content : "We are the cycling club at the University of Southern California, Los Angeles. We organize weekly group rides for USC students, staff and alumni."
+  button:
+    enable : true
+    label : "Contact Us"
+    link : "#contact"

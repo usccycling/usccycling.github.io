@@ -1,0 +1,9 @@
+############################# feature ###################################
+feature:
+  enable : false
+  image : images/about/usc-group.jpg
+  image_webp : images/about/usc-group.webp
+  title : About Us
+  subtitle : We Are A Collegiate Club Sport's Team.
+  content : "SC Cycling is a co-ed collegiate club sport team that teaches students how to ride safely around the Los Angeles area, introduces them to different cycling disciplines, and competes in road, mountain, and track cycling races. We are part of the Western Collegiate Cycling Conference (California and Nevada). The club is open to undergrads, graduate students, faculty, and staff of the University of Southern California regardless of your interest in racing.
+For membership inquiries and general questions please send us an email at info (at) usccycling (dot) com."
