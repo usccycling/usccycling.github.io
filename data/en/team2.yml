@@ -1,0 +1,53 @@
+############################### team ############################
+team2:
+  enable : true
+  title : Current Roster
+  team_member :
+    # team member loop
+    - name : George Papadimitriou
+    - name : Clemens Pilgram
+    - name : Julian Kaiser
+    - name : Perle Knauss
+    - name : Lynne Cherchia
+    - name : Erfan Zeraat
+    - name : Guillermo Castro
+    - name : Mingyu Ding
+    - name : Theo Van Straten
+    - name : Arun Ahuja
+    - name : Aaron Wirthwein
+    - name : Paul Nash
+    - name : Moise Bonheur
+    - name : Drew Henderson
+    - name : Ilan Goldstein
+    - name : Hellen Highland
+    - name : Daniel Hofstadt Rodriguez
+    - name : Weton Jiang
+    - name : Tony Lin
+    - name : Benjamin Hacker
+    - name : Jorge Saucedo-Daniel
+    - name : Pilar Luiz
+    - name : Jude Nejmanowski
+    - name : Arun Ahuja
+    - name : Van Do
+    - name : William Richards
+    - name : Tao Meng
+    - name : Jose Botello
+    - name : Daniel Ochoa
+    - name : Emerson Jin
+    - name : William Olling
+    - name : Justin Soliman
+    - name : Ben Perez
+    - name : Chong Wang
+    - name : Maxime Warnod
+    - name : Kenneth Tiet
+    - name : Kylie Trettner
+    - name : Tristan Mitchell
+    - name : George Ye
+    - name : Andrew Nier
+    - name : Nicolas Perez
+    - name : Adam Wadhwani
+    - name : Cierra Wilson
+    - name : Ryan Kynor
+    - name : Haya Chehada
+    - name : Luke Lozano
+    - name : Cordelia Martinez Jaime
