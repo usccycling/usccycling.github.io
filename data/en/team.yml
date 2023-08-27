@@ -4,16 +4,16 @@ team:
   title : Our Executive Board
   team_member :
     # team member loop
-    - name : George Papadimitriou
-      image_webp : images/team/george.webp
-      image : images/team/george.jpg
-      designation : President
+    - name : Erfan Zeraat
+      image_webp : images/team/erfan.webp
+      image : images/team/erfan.jpg
+      designation : Co-President
         
     # team member loop
-    - name : Clemens Pilgram
-      image_webp : images/team/clemens.webp
-      image : images/team/clemens.jpg
-      designation : Vice President
+    - name : Ben Perez
+      image_webp : images/team/ben.webp
+      image : images/team/ben.jpg
+      designation : Co-President
 
     # team member loop
     - name : Julian Kaiser
@@ -22,21 +22,21 @@ team:
       designation : Vice President
         
     # team member loop
-    - name : Perle Knauss
-      image_webp : images/team/perle.webp
-      image : images/team/perle.jpg
+    - name : Lynne Cherchia
+      image_webp : images/team/usc-biker.webp
+      image : images/team/usc-biker.jpg
       designation : Treasurer
         
     # team member loop
-    - name : Lynne Cherchia
+    - name : George Ye
       image_webp : images/team/usc-biker.webp
       image : images/team/usc-biker.jpg
       designation : Secretary
         
     # team member loop
-    - name : Erfan Zeraat
-      image_webp : images/team/erfan.webp
-      image : images/team/erfan.jpg
+    - name : William Olling
+      image_webp : images/team/usc-biker.webp
+      image : images/team/usc-biker.jpg
       designation : Road Captain
         
     # team member loop
@@ -49,12 +49,6 @@ team:
     - name : Mingyu Ding
       image_webp : images/team/ming.webp
       image : images/team/ming.jpg
-      designation : Social Media
-        
-    # team member loop
-    - name : Theo Van Straten
-      image_webp : images/team/theo.webp
-      image : images/team/theo.jpg
       designation : Social Media
         
     # team member loop
@@ -74,11 +68,3 @@ team:
       image_webp : images/team/liana.webp
       image : images/team/liana.jpg
       designation : Alumni Relations
-      
-    # team member loop
-    - name : Kenneth Tiet
-      image_webp : images/team/usc-biker.webp
-      image : images/team/usc-biker.jpg
-      designation : Social Media
-      
-        
