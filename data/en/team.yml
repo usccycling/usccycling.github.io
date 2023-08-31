@@ -7,13 +7,13 @@ team:
     - name : Erfan Zeraat
       image_webp : images/team/erfan.webp
       image : images/team/erfan.jpg
-      designation : Co-President
+      designation : President
         
     # team member loop
     - name : Ben Perez
       image_webp : images/team/ben.webp
       image : images/team/ben.jpg
-      designation : Co-President
+      designation : Vice President
 
     # team member loop
     - name : Julian Kaiser
