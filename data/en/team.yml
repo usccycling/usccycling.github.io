@@ -47,14 +47,14 @@ team:
         
     # team member loop
     - name : Zixun (Oliver) Zhao
-      image_webp : images/team/ming.webp
-      image : images/team/ming.jpg
+      image_webp : images/team/usc-biker.webp
+      image : images/team/usc-biker.jpg
       designation : Ride Leader
         
     # team member loop
     - name : Moise Bonheur
-      image_webp : images/team/arun.webp
-      image : images/team/arun.jpg
+      image_webp : images/team/usc-biker.webp
+      image : images/team/usc-biker.jpg
       designation : Merch Coordinator
         
     # team member loop
