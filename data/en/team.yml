@@ -4,26 +4,26 @@ team:
   title : Our Executive Board
   team_member :
     # team member loop
-    - name : Erfan Zeraat
-      image_webp : images/team/erfan.webp
-      image : images/team/erfan.jpg
+    - name : Lynne Cherchia
+      image_webp : images/team/usc-biker.webp
+      image : images/team/usc-biker.jpg
       designation : President
-        
+  
     # team member loop
-    - name : Ben Perez
-      image_webp : images/team/ben.webp
-      image : images/team/ben.jpg
-      designation : Vice President
+    - name : Kun Do
+      image_webp : images/team/usc-biker.webp
+      image : images/team/usc-biker.jpg
+      designation : Vice President & Social Media Chair
 
     # team member loop
-    - name : Julian Kaiser
+    - name : Alexander Conn
       image_webp : images/team/usc-biker.webp
       image : images/team/usc-biker.jpg
       designation : Vice President
-        
+
     # team member loop
-    - name : Lynne Cherchia
-      image_webp : images/team/usc-biker.webp
+    - name : Seth Tandon
+      iimage_webp : images/team/usc-biker.webp
       image : images/team/usc-biker.jpg
       designation : Treasurer
         
@@ -34,37 +34,37 @@ team:
       designation : Secretary
         
     # team member loop
-    - name : William Olling
+    - name : Jernej Grlj
       image_webp : images/team/usc-biker.webp
       image : images/team/usc-biker.jpg
-      designation : Road Captain
+      designation : Race Coordinator
         
     # team member loop
-    - name : Guillermo Castro
-      image_webp : images/team/guillermo.webp
-      image : images/team/guillermo.jpg
-      designation : MTB Captain
+    - name : Hirona Arai
+      image_webp : images/team/usc-biker.webp
+      image : images/team/usc-biker.jpg
+      designation : Ride Leader & Social Chair
         
     # team member loop
-    - name : Mingyu Ding
+    - name : Zixun (Oliver) Zhao
       image_webp : images/team/ming.webp
       image : images/team/ming.jpg
-      designation : Social Media
+      designation : Ride Leader
         
     # team member loop
-    - name : Arun Ahuja
+    - name : Moise Bonheur
       image_webp : images/team/arun.webp
       image : images/team/arun.jpg
-      designation : Outreach Coordinator
+      designation : Merch Coordinator
         
     # team member loop
     - name : Aaron Wirthwein
       image_webp : images/team/aaron.webp
       image : images/team/aaron.jpg
       designation : Coach
-        
+
     # team member loop
-    - name : Liana Engie
-      image_webp : images/team/liana.webp
-      image : images/team/liana.jpg
+    - name : Erfan Zeraat
+      image_webp : images/team/erfan.webp
+      image : images/team/erfan.jpg
       designation : Alumni Relations
