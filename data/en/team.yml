@@ -5,44 +5,38 @@ team:
   team_member :
     # team member loop
     - name : Lynne Cherchia
-      image_webp : images/team/usc-biker.webp
-      image : images/team/usc-biker.jpg
+      image : images/team/lynne.jpg
       designation : President
   
     # team member loop
     - name : Kun Do
-      image_webp : images/team/usc-biker.webp
-      image : images/team/usc-biker.jpg
+      image : images/team/kunyang.jpg
       designation : Vice President & Social Media Chair
 
     # team member loop
     - name : Alexander Conn
-      image_webp : images/team/usc-biker.webp
-      image : images/team/usc-biker.jpg
+      image : images/team/alexander.jpg
       designation : Vice President
 
     # team member loop
     - name : Seth Tandon
       iimage_webp : images/team/usc-biker.webp
-      image : images/team/usc-biker.jpg
+      image : images/team/seth.jpg
       designation : Treasurer
         
     # team member loop
     - name : George Ye
-      image_webp : images/team/usc-biker.webp
-      image : images/team/usc-biker.jpg
+      image : images/team/george_ye.jpg
       designation : Secretary
         
     # team member loop
     - name : Jernej Grlj
-      image_webp : images/team/usc-biker.webp
-      image : images/team/usc-biker.jpg
+      image : images/team/jernej.jpg
       designation : Race Coordinator
         
     # team member loop
     - name : Hirona Arai
-      image_webp : images/team/usc-biker.webp
-      image : images/team/usc-biker.jpg
+      image : images/team/hirona.jpg
       designation : Ride Leader & Social Chair
         
     # team member loop
